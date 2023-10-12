@@ -1,0 +1,32 @@
+{
+  "Product": [
+    {
+      "id": 1,
+      "image": "./src/images/Apple Green Smith.png",
+      "name": "Chicken breast fillets",
+      "brand": "Hormal black Labelmany",
+      "price": "$60.67/6+1LB",
+      "quantity": "0*6+1LB",
+      "total": "0",
+      "status": ""
+    },
+    {
+      "id": 2,
+      "name": "Chicken breast fillets",
+      "brand": "Hormal black Labelmany",
+      "price": "$60.67/6+1LB",
+      "quantity": "0*6+1LB",
+      "total": "0",
+      "status": ""
+    },
+    {
+      "id": 3,
+      "name": "Chicken breast fillets",
+      "brand": "Hormal black Labelmany",
+      "price": "$60.67/6+1LB",
+      "quantity": "0*6+1LB",
+      "total": "0",
+      "status": ""
+    }
+  ]
+}
